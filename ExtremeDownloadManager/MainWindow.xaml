@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="ExtremeDownloadManager.MainWindow"
+        Title="Extended Download Manager"
+    Icon="Assets/logo.ico"
+    
+    d:DesignWidth="614.269" d:DesignHeight="672.314" >
+    <Border BorderBrush="#26b6da" BorderThickness="10" CornerRadius="10" >
+        <Grid/>
+    </Border>
+</Window>
